@@ -3,5 +3,6 @@ var playlist = {
   Offspring: 'The kids are alright'
 }
 function updatePlaylist(playlist, artistName, songTitles) {
-  return Object.assign({}, playlist, { [Phil Ochs]: 'songTitles'})
+  
+  return playlist
 }
