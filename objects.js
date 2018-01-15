@@ -1,3 +1,6 @@
 var playlist = {
-  artist_names: "song titles"
+  artistNames: "songTitles"
 };
+function updatePlaylist() {
+  playlist()
+  return playlist
